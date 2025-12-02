@@ -6,7 +6,7 @@ def main():
     
     print("Enter second number : ")
     B = int(input())
-    
+
     Ans = Addition(A,B)
     print("Addition is : ",Ans)
 
